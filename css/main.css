@@ -1,0 +1,62 @@
+body{
+	color: white;
+	background-color: #f48d68;
+	
+}
+
+.firstPanda{
+	background-image: url(../img/uno.jpg);
+	background-position: center;
+	padding: 20em;
+	background-size: cover;
+	-webkit-filter: grayscale(1);
+    filter: grayscale(1);
+
+}
+.secondPanda{
+	background-image: url(../img/dos.jpg);
+	background-position: center;
+	padding:  15em;
+	background-size: cover;
+	-webkit-filter: grayscale(1);
+    filter: grayscale(1);
+
+}
+.thirdPanda{
+	background-image: url(../img/tres.jpg);
+	background-position: center;
+	padding: 15em;
+	background-size: cover;
+	-webkit-filter: grayscale(1);
+    filter: grayscale(1);
+}
+
+
+.cajaTexto{
+	background-color: #abe188;
+	margin-top: 1em;
+    border-top: .3em solid #f48d68;
+    border-bottom: .3em solid #f48d68;
+    text-align: center;
+    text-align: justify-all;
+    padding-top: 4em;
+    padding-bottom: 4em;
+  
+}
+
+.boxText{
+	background-color: #f48d68;
+	text-align: center;
+}
+.boxImg{
+	background-color: #abe188;
+    border-top: .3em solid #f48d68;
+    border-bottom: .3em solid #f48d68;
+    text-align: center;
+    padding :6em;
+}
+
+.boxImg img{
+	border:.5em solid white;
+	margin-top:  1em;
+}
